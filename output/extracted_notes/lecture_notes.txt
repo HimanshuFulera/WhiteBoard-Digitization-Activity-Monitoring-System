@@ -1,0 +1,29 @@
+========================================================
+             REFINED LECTURE NOTES (AI)
+========================================================
+
+MONETARY POLICY
+*   The branch of economic policy which manipulates the Money Supply in a society to regulate the aggregate economy.
+*   Handled by the Central Bank. In the U.S., it's called the Federal Reserve System (The Fed).
+
+MONEY SUPPLY
+*   The amount of money in an economy available for use by households, businesses, and governments for purchases.
+*   Forms of Money (Physical):
+    *   Currency
+    *   Deposits in Banks
+
+KEYNESIAN ECONOMIC THEORY
+*   MARGINAL PROPENSITY TO CONSUME (MPC)
+    *   The additional amount of money consumers spend when they receive one more unit of income.
+    *   Example: If $100 in income leads to $93 in consumption, the MPC is 0.93.
+
+TYPES OF RESOURCES
+*   Fixed Resources: Limit a firm's productive capacity.
+*   Variable Resources
+
+UTILITY MAXIMIZATION
+*   The process by which a consumer chooses the best mix of quantities of products to consume, given limited resources, to achieve the highest possible level of satisfaction.
+*   Tools:
+    *   Utility Schedule
+    *   Marginal Utility Per Price
+    *   Marginal Utility: The additional satisfaction (utility) gained from consuming one more unit of a good or service.

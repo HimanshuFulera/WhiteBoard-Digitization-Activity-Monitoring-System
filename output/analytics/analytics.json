@@ -1,0 +1,10 @@
+{
+  "total_session_duration_sec": 1117.6,
+  "out_of_frame_duration_sec": 0,
+  "facing_students_sec": 862.0,
+  "facing_board_sec": 256.0,
+  "active_teaching_sec": 1118.0,
+  "idle_time_sec": 1.0,
+  "board_interaction_duration_sec": 1099.0,
+  "total_processed_frames": 2236
+}
