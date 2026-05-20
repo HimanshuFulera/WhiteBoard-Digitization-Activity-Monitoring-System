@@ -1,0 +1,8 @@
+paddlepaddle==3.0.0
+paddleocr==3.5.0
+opencv-python>=4.10.0
+numpy>=2.0.0,<3.0.0
+scikit-image>=0.24.0
+fpdf2>=2.8.0
+ultralytics
+google-genai
